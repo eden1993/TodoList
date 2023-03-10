@@ -1,0 +1,24 @@
+.todo {
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+li {
+  list-style: none;
+}
+
+.delete {
+  color: red;
+  padding-right: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.header {
+  color: gold;
+}
+
+.edit {
+  color: royalblue;
+}
